@@ -41,9 +41,7 @@ Building a workshop for vocational schools for automotive students to practice.
 From poster design and 3D modeling to motion graphics
 
 | ![D1](/assets/img/D1.webp) | ![D2](/assets/img/D3.webp) |
-
 | ![D3](/assets/img/D2.webp) | ![D4](/assets/img/D5.webp) |
-
 | ![D5](/assets/img/D4.webp) | ![D6](/assets/img/D6.webp) |
 
 ## Publications
