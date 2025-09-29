@@ -30,7 +30,7 @@ Developed security system and network for warehouse, installing IP CCTV and Digi
 
 ### Develop a Workshop at SMKN 1 Mojosongo
 
-Developed a workshop vor vocational school on automotive studies.
+Building a workshop for vocational schools for automotive students to practice.
 
 ![Workshop](/assets/img/abeng6.jpg) ![Workshop](/assets/img/abeng2.jpg) ![Workshop](/assets/img/abeng3.jpg) ![Workshop](/assets/img/abeng4.jpg) ![Workshop](/assets/img/abeng5.jpg) ![Workshop](/assets/img/abeng.jpg)
 
