@@ -26,7 +26,8 @@
 
 Developed security system and network for warehouse, installing IP CCTV and Digital Video Recorder for online monitoring. And set-up local network for warehouse operational
 
-![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
+![EEG Band Discovery](/assets/img/spx1.png)
+![EEG Band Discovery](/assets/img/spx2.png)
 
 ### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
