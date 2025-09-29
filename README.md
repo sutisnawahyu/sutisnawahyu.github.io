@@ -32,9 +32,9 @@ Developed security system and network for warehouse, installing IP CCTV and Digi
 
 Building a workshop for vocational schools for automotive students to practice.
 
-| ![W1](/assets/img/abeng6.jpg) | ![W2](/assets/img/abeng2.jpg) | ![W3](/assets/img/abeng3.jpg) |
-|-------------------------------|-------------------------------|-------------------------------|
-| ![W4](/assets/img/abeng4.jpg) | ![W5](/assets/img/abeng5.jpg) | ![W6](/assets/img/abeng.jpg)  |
+| ![W1](/assets/img/abeng6.jpg) | ![W2](/assets/img/abeng2.jpg) |
+| ![W4](/assets/img/abeng4.jpg) | ![W5](/assets/img/abeng5.jpg) |
+| ![W3](/assets/img/abeng3.jpg) | ![W6](/assets/img/abeng.jpg)  |
 
 ## Publications
 1. Wahyu, S. NEGOSIASI IDENTITAS FEMINIS MUSLIMAH DENGAN ORANG TUANYA (2024).
