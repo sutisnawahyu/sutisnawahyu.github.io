@@ -16,7 +16,7 @@
 - Conducted site surveys to determine installation prices
 - Built and maintained strong customer relationships
 
-**Technical Engineer @ PT Anugerah Teknik Wisesa (_Januari 2025 - April 2025_)**
+**Technical Engineer @ PT Anugerah Teknik Wisesa (_April 2025 - September 2025_)**
 - Designed and selected pump systems to meet client needs across various industries
 - Managed pump import processes
 - Conducted testing and commissioning of fire alarm systems
