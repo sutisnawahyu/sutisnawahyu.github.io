@@ -27,7 +27,6 @@
 Developed security system and network for warehouse, installing IP CCTV and Digital Video Recorder for online monitoring. And set-up local network for warehouse operational
 
 | ![SPX1](/assets/img/spx1.png) | ![SPX2](/assets/img/spx2.png) |
-|-------------------------------|-------------------------------|
 
 ### Develop a Workshop at SMKN 1 Mojosongo
 
