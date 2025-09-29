@@ -3,20 +3,20 @@
 #### Technical Skills: Linux, RouterOS, Cpanel, CCTV, Access Control, BAS
 
 ## Education 					        		
-- B.S., Communication | Tidar University at Magelang (_November 2024_)
+- Communication | Tidar University (_November 2024_)
 
 ## Work Experience
-**IT Support @ Artha Kreasi Utama (_June 2016 - June 2017_)**
+**IT Support @ Artha Kreasi Utama (_June 16 - June 17_)**
 - Provided IT services to all company employees
 - Managed company website and webmail services
 - Responsible for internet connectivity across all company branches
 
-**Sales Engineer @ Axia Prima Sejahtera (_Januari 2025 - April 2025_)**
+**Sales Engineer @ Axia Prima Sejahtera (_Januari 25 - April 25_)**
 - Prepared proposals and explained building technology and security system products
 - Conducted site surveys to determine installation prices
 - Built and maintained strong customer relationships
 
-**Technical Engineer @ Anugerah Teknik Wisesa (_April 2025 - September 2025_)**
+**Technical Engineer @ Anugerah Teknik Wisesa (_April 25 - September 25_)**
 - Designed and selected pump systems to meet client needs across various industries
 - Managed pump import processes
 - Conducted testing and commissioning of fire alarm systems
@@ -35,6 +35,16 @@ Building a workshop for vocational schools for automotive students to practice.
 | ![W1](/assets/img/abeng6.jpg) | ![W2](/assets/img/abeng2.jpg) |
 | ![W4](/assets/img/abeng4.jpg) | ![W5](/assets/img/abeng5.jpg) |
 | ![W3](/assets/img/abeng3.jpg) | ![W6](/assets/img/abeng.jpg)  |
+
+### Some of my design work
+
+From poster design and 3D modeling to motion graphics
+
+| ![D1](/assets/img/D1.webp) | ![D2](/assets/img/D3.webp) |
+
+| ![D3](/assets/img/D2.webp) | ![D4](/assets/img/D4.webp) |
+
+| ![D5](/assets/img/D5.webp) | ![D6](/assets/img/D6.webp) |
 
 ## Publications
 1. Wahyu, S. NEGOSIASI IDENTITAS FEMINIS MUSLIMAH DENGAN ORANG TUANYA (2024).
