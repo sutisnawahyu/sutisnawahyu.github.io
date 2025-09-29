@@ -28,23 +28,12 @@ Developed security system and network for warehouse, installing IP CCTV and Digi
 
 ![SPX Warehouse Wonosobo](/assets/img/spx1.png) ![SPX Warehouse Wonosobo](/assets/img/spx2.png)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
-[Publication](https://www.mdpi.com/1424-8220/22/11/4240)
+### Develop a Workshop at SMKN 1 Mojosongo
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Developed a workshop vor vocational school on automotive studies.
 
-![Bike Study](/assets/img/bike_study.jpeg)
-
-## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+![Workshop](/assets/img/abeng6.png) ![Workshop](/assets/img/abeng2.png) ![Workshop](/assets/img/abeng3.png) ![Workshop](/assets/img/abeng4.png) ![Workshop](/assets/img/abeng5.png) ![Workshop](/assets/img/abeng.png)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-- [Data Science Blog](https://medium.com/@shawhin)
+1. Wahyu, S. NEGOSIASI IDENTITAS FEMINIS MUSLIMAH DENGAN ORANG TUANYA (2024).
+- [Personal's Blog](https://tumblr.com/penulis)
