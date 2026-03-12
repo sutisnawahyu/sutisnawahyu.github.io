@@ -46,4 +46,4 @@ From poster design and 3D modeling to motion graphics
 
 ## Publications
 1. Wahyu, S. NEGOSIASI IDENTITAS FEMINIS MUSLIMAH DENGAN ORANG TUANYA (2024).
-- [Personal's Blog](https://tumblr.com/penulis)
+- [Personal's Blog](https://tumblr.com/sutisnawahyu)
