@@ -7,15 +7,15 @@
 
 ## Work Experience
 **Sales Engineer @ Gravalty Solution (_Desember 25 - Present_)**
-- Designed and selected pump systems to meet client needs across various industries
-- Managed pump import processes
-- Conducted testing and commissioning of fire alarm systems
+- Built and maintained strong relationships with major EPC (Engineering, Procurement, and Construction) companies across Indonesia
+- Actively participated in procurement processes for various Oil & Gas projects in Indonesia
+- Conducted witness tests and hydrotests for materials supplied to ongoing projects
 
 
 **Graphic Designer @ Orro Home Indonesia (_September 25 - Desember 25_)**
-- Designed and selected pump systems to meet client needs across various industries
-- Managed pump import processes
-- Conducted testing and commissioning of fire alarm systems
+- Created marketing materials including posters, flyers, and banners
+- Designed layouts and floor plans for exhibitions and events in shopping malls across Indonesia
+- Produced promotional videos for events and conducted coverage of event activities
 
 **Technical Engineer @ Anugerah Teknik Wisesa (_April 25 - September 25_)**
 - Designed and selected pump systems to meet client needs across various industries
