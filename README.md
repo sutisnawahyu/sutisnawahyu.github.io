@@ -6,20 +6,31 @@
 - Communication | Tidar University (_November 2024_)
 
 ## Work Experience
-**IT Support @ Artha Kreasi Utama (_June 16 - June 17_)**
-- Provided IT services to all company employees
-- Managed company website and webmail services
-- Responsible for internet connectivity across all company branches
+**Sales Engineer @ Gravalty Solution (_Desember 25 - Present_)**
+- Designed and selected pump systems to meet client needs across various industries
+- Managed pump import processes
+- Conducted testing and commissioning of fire alarm systems
+
+
+**Graphic Designer @ Orro Home Indonesia (_September 25 - Desember 25_)**
+- Designed and selected pump systems to meet client needs across various industries
+- Managed pump import processes
+- Conducted testing and commissioning of fire alarm systems
+
+**Technical Engineer @ Anugerah Teknik Wisesa (_April 25 - September 25_)**
+- Designed and selected pump systems to meet client needs across various industries
+- Managed pump import processes
+- Conducted testing and commissioning of fire alarm systems
 
 **Sales Engineer @ Axia Prima Sejahtera (_Januari 25 - April 25_)**
 - Prepared proposals and explained building technology and security system products
 - Conducted site surveys to determine installation prices
 - Built and maintained strong customer relationships
 
-**Technical Engineer @ Anugerah Teknik Wisesa (_April 25 - September 25_)**
-- Designed and selected pump systems to meet client needs across various industries
-- Managed pump import processes
-- Conducted testing and commissioning of fire alarm systems
+**IT Support @ Artha Kreasi Utama (_June 16 - June 17_)**
+- Provided IT services to all company employees
+- Managed company website and webmail services
+- Responsible for internet connectivity across all company branches
 
 ## Projects
 ### Security System at SPX Warehouse Wonosobo
